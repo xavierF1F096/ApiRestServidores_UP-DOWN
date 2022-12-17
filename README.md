@@ -13,3 +13,5 @@ Dependecies:
 -validation
 -JPA
 
+
+#consumo de api con react js mas adelante
